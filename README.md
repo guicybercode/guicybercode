@@ -45,8 +45,5 @@ I'm fluent in Portuguese and English, and I've developed conversational skills i
 
 Music is a core part of my identity. I'm a musician who explores sound as both emotional expression and structured design. I compose, perform, and experiment with digital and analog tools — often blending my technical background with creative intuition.
 
-Whether I'm working with MIDI controllers, DAWs, or live instruments, I approach music like I approach systems: with clarity, minimalism, and purpose. My compositions often reflect the same principles I apply in engineering — precision, flow, and intentionality.
-
-Faith also plays a role in my music. I see sound as a way to connect, elevate, and express deeper truths beyond language.
 
 **`하나님은 나의 빛이요, 나의 구원이시니 내가 누구를 두려워하랴. God is my light and my salvation — whom shall I fear. (Salmo 27:1)`**
