@@ -41,14 +41,6 @@ I come from Brazil, a country known for its cultural diversity and creative ener
 
 I'm fluent in Portuguese and English, and I've developed conversational skills in Korean, Thai, Italian and Icelandic. Each language connects me to a different culture, perspective, and way of thinking.
 
-Learning languages has never been just about communication — it's about understanding systems, people, and contexts. Whether I'm reading technical documentation in Korean, exploring forums in French, or listening to music in Icelandic, I see language as a tool for empathy and exploration.
-
-This multilingual and multicultural foundation shapes how I build technology: with clarity, adaptability, and respect for diverse ways of seeing the world.
-
-### 🔨 Work Philosophy 
-
-I believe technology should be transparent, ethical, and empowering. I build systems that are minimal, efficient, and deeply understood — not just used. My work is guided by clarity, curiosity, and conviction.
-
 ### 🎶 Music
 
 Music is a core part of my identity. I'm a musician who explores sound as both emotional expression and structured design. I compose, perform, and experiment with digital and analog tools — often blending my technical background with creative intuition.
@@ -56,6 +48,5 @@ Music is a core part of my identity. I'm a musician who explores sound as both e
 Whether I'm working with MIDI controllers, DAWs, or live instruments, I approach music like I approach systems: with clarity, minimalism, and purpose. My compositions often reflect the same principles I apply in engineering — precision, flow, and intentionality.
 
 Faith also plays a role in my music. I see sound as a way to connect, elevate, and express deeper truths beyond language.
-
 
 **`하나님은 나의 빛이요, 나의 구원이시니 내가 누구를 두려워하랴. God is my light and my salvation — whom shall I fear. (Salmo 27:1)`**
