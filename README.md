@@ -33,7 +33,7 @@ I'm Guilherme — a software engineer with a strong focus on Linux (Gentoo, NixO
 
 ### 📕 Graduation
 
-I'm currently pursuing degrees in Information Systems and Electronic Engineering. My academic focus bridges software development, systems architecture, and low-level hardware design — combining programming, mathematics, and electronics to build efficient, purposeful technology.
+I'm currently pursuing degrees in Information Systems and Mathematics. My academic focus bridges software development, systems architecture, and low-level hardware design — combining programming, mathematics to build efficient, purposeful technology.
 
 ### 🔖 Languages
 
