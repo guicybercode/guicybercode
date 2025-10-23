@@ -47,6 +47,10 @@ Music is a core part of my identity. I'm a musician who explores sound as both e
 
 ### Status
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guicybercode&stats_format=bytes)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicybercode&stats_format=bytes&theme=dark&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guicybercode&show_icons=true&theme=dark&hide_title=true" />
+</div>
+
 
 **`하나님은 나의 빛이요, 나의 구원이시니 내가 누구를 두려워하랴. God is my light and my salvation — whom shall I fear. (Salmo 27:1)`**
