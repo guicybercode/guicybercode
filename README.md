@@ -39,7 +39,7 @@ I'm currently pursuing degrees in Information Systems and Mathematics. My academ
 
 I come from Brazil, a country known for its cultural diversity and creative energy. My background blends technical depth with global curiosity — and language has always been a gateway for me.
 
-I'm fluent in Portuguese and English, and I've developed conversational skills in Korean, Thai, Italian and Icelandic. Each language connects me to a different culture, perspective, and way of thinking.
+I'm fluent in Portuguese and English, and I've developed conversational skills in Korean, Thai and Icelandic. Each language connects me to a different culture, perspective, and way of thinking.
 
 ### 🎶 Music
 
