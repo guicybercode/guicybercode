@@ -1,10 +1,20 @@
-# 🤖 guicybercode
+<img width="3484" height="1162" alt="{A472021F-2A5C-42CF-8F60-13CE3F597216}" src="https://i.pinimg.com/736x/c4/33/67/c433674ef35582fce878f1b81e5d2e6a.jpg" />
+
+# 🟨 guicybercode
 
 **`Indie Developer (Code/Hardware/Eletronics)`**
 
-I'm Guilherme — a software engineer with a strong focus on Linux (Gentoo, NixOS), low-level programming (C, Rust), and mathematical thinking. I also work with Java, Python, TypeScript, and C#, building scalable applications across platforms. Experienced with cloud technologies including AWS, Azure, and Oracle OCI. I'm a multilingual communicator (Portuguese, English, Korean, Thai, Icelandic), a musician, and a Christian guided by purpose, clarity, and ethics.
+Guilherme is a Brazilian software engineer and musician currently pursuing degrees in Information Systems and Mathematics. His work bridges low-level programming (C, Rust), Linux systems (Gentoo, NixOS), and scalable development with Java, Python, TypeScript, and C#. He’s experienced with cloud platforms like AWS, Azure, and Oracle OCI. Fluent in Portuguese and English, and conversational in Korean, Thai, and Icelandic, Guilherme connects deeply with global cultures. As a composer and performer, he blends technical precision with creative intuition. Guided by purpose, clarity, and ethics, he brings a multidimensional approach to technology and life.
 
-### 🧰 Languages and Tools
+
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/typemoon/images/a/ad/Sabercasual.png/revision/latest?cb=20121209202138" width="250"/>
+  <img src="https://static.wikia.nocookie.net/deathbattlefanon/images/e/ec/Mami.png/revision/latest?cb=20160207031233" width="250"/>
+</p>
+
+<div align="center">
+
+  ### 🟨 Stack
 
 <p>
   <img alt="Rust" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
@@ -35,26 +45,20 @@ I'm Guilherme — a software engineer with a strong focus on Linux (Gentoo, NixO
   <img alt="SQL" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
 </p>
 
-### 📕 Graduation
-
-I'm currently pursuing degrees in Information Systems and Mathematics. My academic focus bridges software development, systems architecture, and low-level hardware design — combining programming, mathematics to build efficient, purposeful technology.
-
-### 🔖 Languages
-
-I come from Brazil, a country known for its cultural diversity and creative energy. My background blends technical depth with global curiosity — and language has always been a gateway for me.
-
-I'm fluent in Portuguese and English, and I've developed conversational skills in Korean, Thai and Icelandic. Each language connects me to a different culture, perspective, and way of thinking.
-
-### 🎶 Music
-
-Music is a core part of my identity. I'm a musician who explores sound as both emotional expression and structured design. I compose, perform, and experiment with digital and analog tools — often blending my technical background with creative intuition.
-
-### 🎮 Status
+</div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicybercode&stats_format=bytes&theme=dark&layout=compact" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guicybercode&show_icons=true&theme=dark&hide_title=true" />
+
+### 🟡 Status 🟡
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicybercode&stats_format=bytes&theme=dark&layout=compact&title_color=FFD700&text_color=FFFF00&bg_color=0d1117&hide_border=false&border_color=FFD700&icon_color=FFD700" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guicybercode&show_icons=true&theme=dark&hide_title=true&title_color=FFD700&text_color=FFFF00&bg_color=0d1117&hide_border=false&border_color=FFD700&icon_color=FFD700" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guicybercode&theme=tokyo-night&bg_color=0d1117&color=ffff00&line=ffd700&point=fffacd&area=true&hide_border=false&border_color=ffff00&custom_title=Contribution%20Graph%20%F0%9F%92%96&radius=15" alt="Contribution Graph" width="90%"/>
+
   
 **`하나님은 나의 빛이요, 나의 구원이시니 내가 누구를 두려워하랴. God is my light and my salvation — whom shall I fear. (Salmo 27:1)`**
+
+
+feel free to check out [my personal site](https://.com)!!
 
 </div>
