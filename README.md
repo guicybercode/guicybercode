@@ -7,6 +7,47 @@
 Guilherme is a Brazilian software engineer and musician currently pursuing degrees in Information Systems and Mathematics. His work bridges low-level programming (C, Rust), Linux systems (Gentoo, NixOS), and scalable development with Java, Python, TypeScript, and C#. He’s experienced with cloud platforms like AWS, Azure, and Oracle OCI. Fluent in Portuguese and English, and conversational in Korean, Thai, and Icelandic, Guilherme connects deeply with global cultures. As a composer and performer, he blends technical precision with creative intuition. Guided by purpose, clarity, and ethics, he brings a multidimensional approach to technology and life.
 
 
+# 🟨 About Me
+
+<table align="center">
+
+
+<p align="center">
+<i>"Who shall separate us from the love of Christ? Shall trouble or hardship or persecution or famine or nakedness or danger or sword?"</i>
+  <br/>
+  <sub>Romans 8:36</sub>
+</p>
+
+  
+  <tr>
+    <td align="center" width="50%">
+      <b>🇧🇷 Location</b><br/>
+      Brazil (UTC -03:00)
+    </td>
+    <td align="center" width="50%">
+      <b>💼 Work</b><br/>
+      Software Engineer & Mathematician
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🌸 Main Project</b><br/>
+      <a href="https://waifuvault.moe">WaifuVault</a> - temporary file hosting
+    </td>
+    <td align="center">
+      <b>🐦 Twitter</b><br/>
+      <a href="https://twitter.com/VictoriqueM">@VictoriqueM</a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <i>"Music is a core part of my identity. I'm a musician who explores sound as both emotional expression and structured design. I compose, perform, and experiment with digital and analog tools — often blending my technical background with creative intuition."
+</i>
+</p>
+
 <p align="center">
   <img src="https://static.wikia.nocookie.net/typemoon/images/a/ad/Sabercasual.png/revision/latest?cb=20121209202138" width="250"/>
   <img src="https://static.wikia.nocookie.net/deathbattlefanon/images/e/ec/Mami.png/revision/latest?cb=20160207031233" width="250"/>
@@ -14,7 +55,7 @@ Guilherme is a Brazilian software engineer and musician currently pursuing degre
 
 <div align="center">
 
-  ### 🟨 Stack
+  ## 🟨 Stack
 
 <p>
   <img alt="Rust" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
@@ -49,7 +90,7 @@ Guilherme is a Brazilian software engineer and musician currently pursuing degre
 
 <div align="center">
 
-### 🟡 Status 🟡
+## 🟡 Status 🟡
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicybercode&stats_format=bytes&theme=dark&layout=compact&title_color=FFD700&text_color=FFFF00&bg_color=0d1117&hide_border=false&border_color=FFD700&icon_color=FFD700" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guicybercode&show_icons=true&theme=dark&hide_title=true&title_color=FFD700&text_color=FFFF00&bg_color=0d1117&hide_border=false&border_color=FFD700&icon_color=FFD700" />
