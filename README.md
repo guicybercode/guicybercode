@@ -1,6 +1,6 @@
 <img width="3484" height="1162" alt="{A472021F-2A5C-42CF-8F60-13CE3F597216}" src="https://i.pinimg.com/736x/c4/33/67/c433674ef35582fce878f1b81e5d2e6a.jpg" />
 
-# 🟨 guicybercode
+# 🐤 guicybercode
 
 **`Indie Developer (Code/Hardware/Eletronics)`**
 
@@ -9,6 +9,11 @@ Guilherme is a Brazilian software engineer and musician currently pursuing degre
 
 <table align="center">
 
+<div align="center">
+
+# 🚖 나에 대해서
+
+</div>
 
 <p align="center">
 <i>"Who shall separate us from the love of Christ? Shall trouble or hardship or persecution or famine or nakedness or danger or sword?"</i>
@@ -45,7 +50,12 @@ Guilherme is a Brazilian software engineer and musician currently pursuing degre
 
 <div align="center">
 
-  ## 🟨 Stack
+  ## 📒 コードスタック
+
+  <p align="center">
+  <i>"Music is a core part of my identity. I'm a musician who explores sound as both emotional expression and structured design. I compose, perform, and experiment with digital and analog tools — often blending my technical background with creative intuition."
+</i>
+</p>
 
 <p>
   <img alt="Rust" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
@@ -80,7 +90,7 @@ Guilherme is a Brazilian software engineer and musician currently pursuing degre
 
 <div align="center">
 
-## 🟡 Status 🟡
+## 💫 成效圖表 
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicybercode&stats_format=bytes&theme=dark&layout=compact&title_color=FFD700&text_color=FFFF00&bg_color=0d1117&hide_border=false&border_color=FFD700&icon_color=FFD700" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guicybercode&show_icons=true&theme=dark&hide_title=true&title_color=FFD700&text_color=FFFF00&bg_color=0d1117&hide_border=false&border_color=FFD700&icon_color=FFD700" />
