@@ -53,7 +53,7 @@ Guilherme is a Brazilian software engineer and musician currently pursuing degre
   ## 📒 コードスタック
 
   <p align="center">
-  <i>"Music is a core part of my identity. I'm a musician who explores sound as both emotional expression and structured design. I compose, perform, and experiment with digital and analog tools — often blending my technical background with creative intuition."
+  <i>"I love code in Rust, Elixir, LUA, Zig, C++ and doing hardware stuffs like my esp32, arduino and soldering"
 </i>
 </p>
 
