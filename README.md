@@ -7,8 +7,6 @@
 Guilherme is a Brazilian software engineer and musician currently pursuing degrees in Information Systems and Mathematics. His work bridges low-level programming (C, Rust), Linux systems (Gentoo, NixOS), and scalable development with Java, Python, TypeScript, and C#. He’s experienced with cloud platforms like AWS, Azure, and Oracle OCI. Fluent in Portuguese and English, and conversational in Korean, Thai, and Icelandic, Guilherme connects deeply with global cultures. As a composer and performer, he blends technical precision with creative intuition. Guided by purpose, clarity, and ethics, he brings a multidimensional approach to technology and life.
 
 
-# 🟨 About Me
-
 <table align="center">
 
 
@@ -29,15 +27,7 @@ Guilherme is a Brazilian software engineer and musician currently pursuing degre
       Software Engineer & Mathematician
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <b>🌸 Main Project</b><br/>
-      <a href="https://waifuvault.moe">WaifuVault</a> - temporary file hosting
-    </td>
-    <td align="center">
-      <b>🐦 Twitter</b><br/>
-      <a href="https://twitter.com/VictoriqueM">@VictoriqueM</a>
-    </td>
+ 
   </tr>
 </table>
 
