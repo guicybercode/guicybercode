@@ -1,4 +1,4 @@
-<img width="3484" height="1162" alt="{A472021F-2A5C-42CF-8F60-13CE3F597216}" src="https://i.pinimg.com/736x/c4/33/67/c433674ef35582fce878f1b81e5d2e6a.jpg" />
+<img width="3484" height="1162" alt="{A472021F-2A5C-42CF-8F60-13CE3F597216}" src="https://images5.alphacoders.com/613/thumb-1920-613927.jpg" />
 
 # 🐤 guicybercode
 
