@@ -4,7 +4,7 @@
 
 **`Indie Developer (Code/Hardware/Eletronics)`**
 
-Guilherme is a Brazilian software engineer and musician currently pursuing degrees in Information Systems. His work bridges low-level programming (C, Rust), Linux systems (Gentoo, NixOS), and scalable development with Java, Python, TypeScript, and C#. He’s experienced with cloud platforms like AWS, Azure, and Oracle OCI. Fluent in Portuguese and English, and conversational in Korean, Thai, and Icelandic, Guilherme connects deeply with global cultures. As a composer and performer, he blends technical precision with creative intuition. Guided by purpose, clarity, and ethics, he brings a multidimensional approach to technology and life.
+Guilherme is a Brazilian Christian software engineer and musician currently pursuing degree in Information Systems. His work bridges low-level programming (C, Rust), Linux systems (Gentoo, NixOS), and scalable development with Java, Python, TypeScript, and C#. He’s experienced with cloud platforms like AWS, Azure, and Oracle OCI. Fluent in Portuguese and English, and conversational in Korean, Thai, and Icelandic, Guilherme connects deeply with global cultures. As a composer and performer, he blends technical precision with creative intuition. Guided by purpose, clarity, and ethics, he brings a multidimensional approach to technology and life.
 
 
 <table align="center">
