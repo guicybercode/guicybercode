@@ -44,7 +44,7 @@ Guilherme is a Brazilian Christian software engineer and musician currently purs
 </p>
 
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/typemoon/images/a/ad/Sabercasual.png/revision/latest?cb=20121209202138" width="250"/>
+  <img src="https://www.nicepng.com/png/full/346-3468548_yu-gi-oh-cards-without-backgrounds-felgrand-dragon.png" width="250"/>
   <img src="https://static.wikia.nocookie.net/deathbattlefanon/images/e/ec/Mami.png/revision/latest?cb=20160207031233" width="250"/>
 </p>
 
