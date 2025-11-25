@@ -88,7 +88,9 @@ Guilherme is a Brazilian Christian software engineer and musician currently purs
 ## 💫 成效圖表 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicybercode&layout=compact&theme=radical&bg_color=0d1117&title_color=FFD700&text_color=FFFF00&border_color=FFD700&hide_border=false&border_radius=15&langs_count=8" alt="Top Languages" height="180"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guicybercode&show_icons=true&theme=dark&hide_title=true&title_color=FFD700&text_color=FFFF00&bg_color=0d1117&hide_border=false&border_color=FFD700&icon_color=FFD700" />
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=guicybercode&theme=tokyo-night&bg_color=0d1117&color=ffff00&line=ffd700&point=fffacd&area=true&hide_border=false&border_color=ffff00&custom_title=Contribution%20Graph%20%F0%9F%92%96&radius=15" alt="Contribution Graph" width="90%"/>
 
   
