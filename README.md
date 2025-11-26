@@ -53,6 +53,15 @@ Guilherme is a Brazilian Christian software engineer and musician currently purs
 </p>
 
 <p>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicybercode&layout=compact&theme=radical&bg_color=0d1117&title_color=FFD700&text_color=FFFF00&border_color=FFD700&hide_border=false&border_radius=15&langs_count=8" 
+  alt="Top Languages" 
+  height="180"
+/>
+
+##
+
   <img alt="Rust" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
   <img alt="Type" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=whit" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -86,13 +95,6 @@ Guilherme is a Brazilian Christian software engineer and musician currently purs
 <div align="center">
 
 ## 💫 成效圖表  
-
-<!-- Linguagens mais usadas -->
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicybercode&layout=compact&theme=radical&bg_color=0d1117&title_color=FFD700&text_color=FFFF00&border_color=FFD700&hide_border=false&border_radius=15&langs_count=8" 
-  alt="Top Languages" 
-  height="180"
-/>
 
 <!-- Gráfico de contribuições -->
 <img 
