@@ -54,12 +54,6 @@ Guilherme is a Brazilian Christian software engineer and musician currently purs
 
 <p>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicybercode&layout=compact&theme=radical&bg_color=0d1117&title_color=FFD700&text_color=FFFF00&border_color=FFD700&hide_border=false&border_radius=15&langs_count=8" 
-  alt="Top Languages" 
-  height="180"
-/>
-
 ##
 
   <img alt="Rust" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
@@ -97,13 +91,12 @@ Guilherme is a Brazilian Christian software engineer and musician currently purs
 ## 💫 成效圖表  
 
 <!-- Gráfico de contribuições -->
+
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=guicybercode&theme=tokyo-night&bg_color=0d1117&color=ffff00&line=ffd700&point=fffacd&area=true&hide_border=false&border_color=ffff00&custom_title=Contribution%20Graph%20%F0%9F%92%96&radius=15" 
-  alt="Contribution Graph" 
-  width="90%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicybercode&layout=compact&theme=radical&bg_color=0d1117&title_color=FFD700&text_color=FFFF00&border_color=FFD700&hide_border=false&border_radius=15&langs_count=8" 
+  alt="Top Languages" 
+  height="180"
 />
-
-
   
 **`하나님은 나의 빛이요, 나의 구원이시니 내가 누구를 두려워하랴. God is my light and my salvation — whom shall I fear. (Salmo 27:1)`**
 
