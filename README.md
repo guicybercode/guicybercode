@@ -54,7 +54,6 @@ Guilherme is a Brazilian Christian software engineer and musician currently purs
 
 <p>
 
-##
 
   <img alt="Rust" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
   <img alt="Type" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=whit" />
