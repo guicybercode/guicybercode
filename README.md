@@ -1,6 +1,6 @@
 <img width="3484" height="1162" alt="{A472021F-2A5C-42CF-8F60-13CE3F597216}" src="https://images5.alphacoders.com/613/thumb-1920-613927.jpg" />
 
-# 🐤 guicybercode
+# guicybercode
 
 **`Indie Developer (Code/Hardware/Eletronics)`**
 
@@ -11,7 +11,7 @@ Guilherme is a Brazilian Christian software engineer and musician currently purs
 
 <div align="center">
 
-# 🚖 나에 대해서
+# 나에 대해서
 
 </div>
 
@@ -45,7 +45,7 @@ Guilherme is a Brazilian Christian software engineer and musician currently purs
 
 <div align="center">
 
-  ## 📒 コードスタック
+  ## コードスタック
 
   <p align="center">
   <i>"I love code in Rust, Elixir, LUA, Zig, C++ and doing hardware stuffs like my esp32, arduino and soldering"
@@ -88,7 +88,7 @@ Guilherme is a Brazilian Christian software engineer and musician currently purs
 
 <div align="center">
 
-## 💫 成效圖表  
+## 成效圖表  
 
 <!-- Gráfico de contribuições -->
 
