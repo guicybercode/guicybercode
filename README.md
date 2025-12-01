@@ -91,15 +91,8 @@ Guilherme is a Brazilian Christian software engineer and musician currently purs
 
 <div align="center">
 
-## 成效圖表  
+## 
 
-<!-- Gráfico de contribuições -->
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicybercode&layout=compact&theme=radical&bg_color=0d1117&title_color=FFD700&text_color=FFFF00&border_color=FFD700&hide_border=false&border_radius=15&langs_count=8" 
-  alt="Top Languages" 
-  height="180"
-/>
   
 **`하나님은 나의 빛이요, 나의 구원이시니 내가 누구를 두려워하랴. God is my light and my salvation — whom shall I fear. (Salmo 27:1)`**
 
