@@ -1,4 +1,4 @@
-<img width="3484" height="1162" alt="{A472021F-2A5C-42CF-8F60-13CE3F597216}" src="https://images5.alphacoders.com/613/thumb-1920-613927.jpg" />
+<img width="3484" height="1162" alt="{A472021F-2A5C-42CF-8F60-13CE3F597216}" src="https://i.pinimg.com/originals/2f/78/a4/2f78a40ecbf9b22a7985eeb79008d665.gif" />
 
 # guicybercode
 
