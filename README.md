@@ -1,4 +1,4 @@
-<img width="3484" height="1162" alt="{A472021F-2A5C-42CF-8F60-13CE3F597216}" src="https://i.pinimg.com/originals/2f/78/a4/2f78a40ecbf9b22a7985eeb79008d665.gif" />
+<img width="3484" height="1162" alt="{A472021F-2A5C-42CF-8F60-13CE3F597216}" src="https://i.ytimg.com/vi/g3eRxFNNrMQ/maxresdefault.jpg" />
 
 # guicybercode
 
@@ -48,7 +48,7 @@ Guilherme is a Brazilian Christian software engineer and musician currently purs
   ## コードスタック
 
   <p align="center">
-  <i>"I love code in Rust, Elixir, LUA, Zig, C++ and doing hardware stuffs like my esp32, arduino and soldering"
+  <i>"I code in Rust, Elixir, Lua, Zig, and C++, with a passion for embedded systems like ESP32 and Arduino. I enjoy soldering, designing circuits, and pushing microcontrollers to their limits, blending low‑level performance with high‑level to turn ideas into real prototypes."
 </i>
 </p>
 
@@ -91,11 +91,16 @@ Guilherme is a Brazilian Christian software engineer and musician currently purs
 
 <div align="center">
 
-## 
+## i use nixos btw 
 
   
 **`하나님은 나의 빛이요, 나의 구원이시니 내가 누구를 두려워하랴. God is my light and my salvation — whom shall I fear. (Salmo 27:1)`**
 
+<div align="center">
+  
+<img width="348" height="1162" alt="{A472021F-2A5C-42CF-8F60-13CE3F597216}" src="https://i.pinimg.com/originals/2f/78/a4/2f78a40ecbf9b22a7985eeb79008d665.gif" />
+
+</div>
 
 feel free to check out [my personal site](https://.com)!!
 
