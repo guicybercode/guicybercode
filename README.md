@@ -93,6 +93,16 @@ Guilherme is a Brazilian Christian software engineer and musician currently purs
 
 ## i use nixos btw 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guicybercode&show_icons=true&theme=radical&bg_color=0d1117&title_color=ffffff&icon_color=808080&text_color=cccccc&border_color=333333&hide_border=false&border_radius=15" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicybercode&layout=compact&theme=radical&bg_color=0d1117&title_color=ffffff&text_color=cccccc&border_color=333333&hide_border=false&border_radius=15&langs_count=8" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guicybercode&theme=tokyo-night&bg_color=0d1117&color=ffffff&line=808080&point=cccccc&area=true&hide_border=false&border_color=333333&custom_title=Contribution%20Graph&radius=15" alt="Contribution Graph" width="90%"/>
+</p>
+
+
   
 **`하나님은 나의 빛이요, 나의 구원이시니 내가 누구를 두려워하랴. God is my light and my salvation — whom shall I fear. (Salmo 27:1)`**
 
