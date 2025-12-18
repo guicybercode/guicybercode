@@ -93,8 +93,6 @@ Guilherme is a Brazilian Christian software engineer and musician currently purs
 
 ## i use nixos btw 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guicybercode&show_icons=true&theme=radical&bg_color=0d1117&title_color=ffffff&icon_color=808080&text_color=cccccc&border_color=333333&hide_border=false&border_radius=15" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicybercode&layout=compact&theme=radical&bg_color=0d1117&title_color=ffffff&text_color=cccccc&border_color=333333&hide_border=false&border_radius=15&langs_count=8" alt="Top Languages" height="180"/>
 </p>
 
