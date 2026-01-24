@@ -1,4 +1,4 @@
-<img width="3484" height="1162" alt="{A472021F-2A5C-42CF-8F60-13CE3F597216}" src="https://pbs.twimg.com/media/GqW7lkOWIAArrCY?format=jpg&name=large" />
+<img width="3484" height="1162" alt="{A472021F-2A5C-42CF-8F60-13CE3F597216}" src="https://c4.wallpaperflare.com/wallpaper/865/824/909/anime-jojo-s-bizarre-adventure-johnny-joestar-steel-ball-run-hd-wallpaper-preview.jpg" />
 
 # guicybercode
 
