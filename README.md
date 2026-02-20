@@ -93,7 +93,7 @@ Guilherme is a Brazilian Christian tech lead and musician. His work bridges low-
 
 # i use nixos btw 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guicybercode&layout=compact&theme=tokyonight&langs_count=6&hide=HTML,CSS)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guicybercode&theme=tokyonight)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=guicybercode&theme=tokyo-night&bg_color=0d1117&color=ffffff&line=808080&point=cccccc&area=true&hide_border=false&border_color=333333&custom_title=Contribution%20Graph&radius=15" alt="Contribution Graph" width="90%"/>
