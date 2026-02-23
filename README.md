@@ -1,24 +1,29 @@
+<p align="center">
+<i>"Who shall separate us from the love of Christ? Shall trouble or hardship or persecution or famine or nakedness or danger or sword?"</i>
+  <br/>
+  <sub>Romans 8:36</sub>
+</p>
+
 <img width="" height="" alt="{A472021F-2A5C-42CF-8F60-13CE3F597216}" src="https://pbs.twimg.com/media/GR-rBlNaMAE1QqH?format=jpg&name=large" />
 
 # guicybercode
 
 **`Indie Developer (Code/Hardware/Eletronics)`**
 
-Guilherme is a Brazilian Christian tech lead and musician. His work bridges low-level programming (C, Rust), Linux systems (Gentoo, NixOS), and scalable development with Java, Python, TypeScript, and C#. He’s experienced with cloud platforms like AWS, Azure, and Oracle OCI. Fluent in Portuguese and English, and conversational in Korean, Thai, and Icelandic, Guilherme connects deeply with global cultures. As a composer and performer, he blends technical precision with creative intuition. Guided by purpose, clarity, and ethics, he brings a multidimensional approach to technology and life.
-
+Software architect and systems thinker. I work across the stack — from bare-metal C and Rust to scalable backends in Ruby, Python, TypeScript, and C#. I design systems that hold up under pressure, grounded in clean architecture and real understanding of what runs beneath the abstractions.
+At home on Linux, FreeBSD, macOS, and NixOS. Deep believer in open source — not just as a model, but as a philosophy. Cloud infrastructure across AWS, Azure, and Oracle OCI.
+Fluent in Portuguese and English. Conversational in Korean and Icelandic — because language is the closest thing to understanding a culture from the inside.
+Composer and musician. Financial privacy is a human right.
 
 <table align="center">
 
 <div align="center">
 
-# 나에 대해서
-
 </div>
 
 <p align="center">
-<i>"Who shall separate us from the love of Christ? Shall trouble or hardship or persecution or famine or nakedness or danger or sword?"</i>
-  <br/>
-  <sub>Romans 8:36</sub>
+  <i>"Music is a core part of my identity. I'm a musician who explores sound as both emotional expression and structured design. I compose, perform, and experiment with digital and analog tools — often blending my technical background with creative intuition."
+</i>
 </p>
 
   
@@ -38,19 +43,9 @@ Guilherme is a Brazilian Christian tech lead and musician. His work bridges low-
 
 <br/>
 
-<p align="center">
-  <i>"Music is a core part of my identity. I'm a musician who explores sound as both emotional expression and structured design. I compose, perform, and experiment with digital and analog tools — often blending my technical background with creative intuition."
-</i>
-</p>
-
 <div align="center">
 
-  ## コードスタック
-
-  <p align="center">
-  <i>"I code in Rust, Elixir, Lua, Zig, and C++, with a passion for embedded systems like ESP32 and Arduino. I enjoy soldering, designing circuits, and pushing microcontrollers to their limits, blending low‑level performance with high‑level to turn ideas into real prototypes."
-</i>
-</p>
+  ## Code Stack
 
 <p>
 
@@ -91,9 +86,6 @@ Guilherme is a Brazilian Christian tech lead and musician. His work bridges low-
 
 <div align="center">
 
-# i use nixos btw 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guicybercode&theme=tokyonight)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=guicybercode&theme=tokyo-night&bg_color=0d1117&color=ffffff&line=808080&point=cccccc&area=true&hide_border=false&border_color=333333&custom_title=Contribution%20Graph&radius=15" alt="Contribution Graph" width="90%"/>
