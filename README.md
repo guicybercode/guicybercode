@@ -4,7 +4,7 @@
   <sub>Romans 8:35</sub>
 </p>
 
-<img width="" height="" alt="{A472021F-2A5C-42CF-8F60-13CE3F597216}" src="https://pbs.twimg.com/media/GR-rBlNaMAE1QqH?format=jpg&name=large" />
+<img width="" height="" alt="{A472021F-2A5C-42CF-8F60-13CE3F597216}" src="https://pbs.twimg.com/media/HCU1gsHXcAAx7v-?format=jpg&name=medium" />
 
 # guicybercode
 
