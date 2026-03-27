@@ -1,3 +1,4 @@
+
 <p align="center">
 <i>"Who shall separate us from the love of Christ? Shall trouble or hardship or persecution or famine or nakedness or danger or sword?"</i>
   <br/>
@@ -10,11 +11,11 @@
 
 **`Indie Developer (Code/Hardware/Electronics)`**
 
-Software architect and systems thinker. I work across the stack — from bare-metal C and Rust to scalable backends in Ruby, Python, TypeScript, and C#. I design systems that hold up under pressure, grounded in clean architecture and real understanding of what runs beneath the abstractions.
+Software architect and systems thinker. I work across the stack — from bare-metal C and Rust to scalable backends in Ruby, Python, TypeScript, and C++. I design systems that hold up under pressure, grounded in clean architecture and real understanding of what runs beneath the abstractions.
 
 At home on Linux, FreeBSD, macOS, and NixOS. Deep believer in open source not just as a model, but as a philosophy. Cloud infrastructure across AWS, Azure, and Oracle OCI.
 
-Fluent in Portuguese and English. Conversational in Korean and Icelandic because language is the closest thing to understanding a culture from the inside.
+Fluent in Portuguese and English. Conversational in Korean, Icelandic, Italian, Japanese, and Mandarin because language is the closest thing to understanding a culture from the inside.
 
 Composer and musician. Financial privacy is a human right.
 
@@ -53,7 +54,8 @@ Composer and musician. Financial privacy is a human right.
   <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img alt="Apple" src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img alt="Lenovo" src="https://img.shields.io/badge/Lenovo_ThinkPad-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
@@ -82,12 +84,7 @@ Composer and musician. Financial privacy is a human right.
 
 **`ܡܪܝܐ ܢܘܗܪܝ ܘܦܘܪܩܢܝ ܡܢ ܡܢܘ ܐܕܚܠ ܡܪܝܐ ܥܘܫܢܐ ܕܚܝ̈ܝ ܡܢ ܡܢܘ ܐܙܘܥ. God is my light and my salvation — whom shall I fear. (Salmo 27:1)`**
 
-<div align="center">
 
-<img width="348" height="1162" alt="{A472021F-2A5C-42CF-8F60-13CE3F597216}" src="https://i.pinimg.com/originals/2f/78/a4/2f78a40ecbf9b22a7985eeb79008d665.gif" />
-
-</div>
-
-feel free to check out [my personal site](https://YOUR-DOMAIN-HERE.com)!!
+feel free to check out [my personal site](https://gui.cybercode.me/)!!
 
 </div>
