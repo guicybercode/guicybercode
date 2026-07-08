@@ -22,15 +22,15 @@ Composer and musician. Financial privacy is a human right.
 
 <tr>
   <td align="center" width="33%">
-    <b>🇧🇷 Location</b><br/>
+    <b>Location</b><br/>
     Brazil (UTC -03:00)
   </td>
   <td align="center" width="33%">
-    <b>💼 Work</b><br/>
+    <b>Work</b><br/>
     Tech Lead
   </td>
   <td align="center" width="33%">
-    <b>🎵 Music</b><br/>
+    <b>Music</b><br/>
     Composer & performer
   </td>
 </tr>
